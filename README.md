@@ -1,5 +1,5 @@
 # ICRP-Extended
-On going work regarding ICRP Population improvement
+On going work regarding ICRP Population improvement based on [this](https://github.com/Open-Systems-Pharmacology/Forum/issues/87)  discussion in the forum
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md).
